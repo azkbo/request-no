@@ -1,0 +1,27 @@
+{
+  "name": "request-no",
+  "version": "0.0.17",
+  "description": "网络请求工具库",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [
+    "eventbus",
+    "network",
+    "request-no"
+  ],
+  "author": {
+    "name": "azkbo",
+    "email": "azkbo@github.com",
+    "description": "网络请求工具库",
+    "url": "https://github.com/azkbo/request-no"
+  },
+  "homepage": "https://github.com/azkbo/request-no",
+  "bugs": {
+    "url": "https://github.com/azkbo/request-no/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/azkbo/request-no"
+  },
+  "license": "ISC"
+}
